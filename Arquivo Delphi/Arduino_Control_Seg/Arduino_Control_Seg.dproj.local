@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/11/04 23:09:52.000.015,=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/11/26 20:04:03.000.827,=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/11/26 21:41:09.000.429,E:\Arduino_Control_Seg\Arduino.pas=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/11/26 21:41:09.000.429,E:\Arduino_Control_Seg\Arduino.dfm=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2012/11/26 21:53:05.000.603,C:\Documents and Settings\Administrador\Desktop\Arduino.pas=E:\Arduino_Control_Seg\Arduino.pas</Transaction>
+    <Transaction>2012/11/26 21:53:05.000.603,C:\Documents and Settings\Administrador\Desktop\Arduino.dfm=E:\Arduino_Control_Seg\Arduino.dfm</Transaction>
+    <Transaction>2012/11/26 22:02:56.000.458,E:\Arduino_Control_Seg\Arduino_Control_Seg.dproj=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2012/11/26 22:58:00.000.647,=E:\Arduino_Control_Seg\Arduino.pas</Transaction>
+  </Transactions>
+</BorlandProject>
